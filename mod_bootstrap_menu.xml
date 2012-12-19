@@ -22,6 +22,12 @@
 		<language tag="pt-BR">pt-BR/pt-BR.mod_bootstrap_menu.sys.ini</language>
 		<language tag="pt-BR">pt-BR/pt-BR.mod_bootstrap_menu.sys.ini</language>
 	</languages>
+	<media destination="mod_bootstrap_menu" folder="media">
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<filename>index.html</filename>
+	</media>
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
